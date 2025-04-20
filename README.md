@@ -103,8 +103,6 @@ This model expects medical images and their corresponding segmentation masks.
         ├── images/
         └── masks/
     ```
-    *(Adjust the structure above to match your `DataLoader`)*
-
 ---
 
 ## ⚙️ Usage
